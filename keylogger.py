@@ -54,8 +54,8 @@ timeIteration = 15 # how long a single iteration will run here: 15 seconds
 numberOfIterationsEnd = 3 # Number of iteration which will run eg. 1 iteration will run 15 seconds i.e 15*3 = 45 seconds will the time taken by the program to complete the iteration
 
 #email constants
-email = "iamreedmetxt@gmail.com" #the from-email-id
-password = "dzsdeujdugeoppqr " #app-password-found in 2 step verification of the account
+email = "" #the from-email-id
+password = " " #app-password-found in 2-step verification of the account
 
 toAddr = "iamreedmetxt@gmail.com" #email-addr to which you want to send to
 
