@@ -2,6 +2,7 @@
 This Key Logger takes screenshot, records microphone and also sends the logs to your Gmail
 
 #Requirements
+
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.1
